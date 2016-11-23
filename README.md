@@ -42,12 +42,14 @@ Some tips:
 Using shell:
 
 ```
-git status
-git add .
-git commit -m'write message for changes'
-git push origin master
-# provide username and password
+cd /path/to/website/
+# make changes to html
+make html
+#push to github for version control
+make github
+#enter username and password
 
+#to sync server with local changes to html
 bash upload.sh
 ```
 Changes should be updated within 10-15 minutes.
