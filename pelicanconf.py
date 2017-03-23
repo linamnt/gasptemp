@@ -18,7 +18,10 @@ THEME = '../theme/'
 BOOTSTRAP_THEME = 'paper'
 FAVICON = 'images/favicon.ico'
 TWITTER_WIDGET_ID = 'gaspuoft/gasp'
-
+OUTPUT_PATH = 'www-data/'
+DEFAULT_PAGINATION = 10
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -40,21 +43,18 @@ SOCIAL = (('Facebook', 'https://www.facebook.com/UofTGASP'),
 ('Mobile', 'https://play.google.com/store/apps/details?id=com.leesoft.gaspmobileapp'),
 )
 
-DEFAULT_PAGINATION = 10
+# Newsletter link for front page
+NEWSLETTER = 'posters/2017/mar2017.jpg'
 
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-
-
+# Upcoming Events in sidebar
 UPCOMING_EVENTS = (
-('Boot Camp', 'Wednesday, Nov 23rd, 5:30pm', 'Hart House', 'boot-camp'),
-('SickKids Coffee Break', 'Thursday, Nov 24th, 3pm', 'PGCRL', 'november-coffee-break'),
+('Thesis 101', 'Monday, March 27 6pm', 'MSB3227', 'thesis-101'),
+('PSL Sweater Design Competition', 'Deadline: Friday, March 24', 'email: mel.markovic@mail.utoronto.ca', 'psl-sweater-competition'),
 ('Coffee Break', 'Wednesdays at 2pm', 'Physiology Lunch Room', 'coffee-break'),
 )
 
-NEWSLETTER = 'posters/nov2016.jpg'
 
-#Executive & Council Members:
+# Executive & Council Members:
 EXECMEMBERS = (
 (1, 'President', 'Melanie', 'Markovic', 'mel.markovic@mail.utoronto.ca'),
 (1, 'Secretary', 'Farigol', 'Zadeh', 'gasp.physiology@utoronto.ca'),
@@ -67,10 +67,10 @@ EXECMEMBERS = (
 COUNCILMEMBERS = (
 (1, 'Social Coordinator', 'Kenny', 'Chan', 'kennyl.chan@mail.utoronto.ca'),
 (1, 'Social Coordinator', 'Scott', 'Frendo-Cumbo', 'scott.frendo.cumbo@mail.utoronto.ca'),
-(1, 'Sports Coordinator', 'John', 'Choi', 'gasp.sports@gmail.com'),
+(1, 'Sports Coordinator', 'Frances', 'Wong', 'gasp.sports@gmail.com'),
 (2, 'Academic Coordinator', 'Sammy', 'Cai', 'sammy.cai@mail.utoronto.ca'),
 (2, 'Outreach Coordinator', 'Ashkan', 'Salehi', 'ash.salehi@mail.utoronto.ca'),
-(2, 'Off-Campus Representative', 'Sina', 'Hadipour-Lakmehsari', 'sina.hadipour.lakmehsari@mail.utoronto.ca'), 
+(2, 'Off-Campus Representative', 'Sina', 'Hadipour-Lakmehsari', 'sina.hadipour.lakmehsari@mail.utoronto.ca'),
 (3, 'Science Rendezvous Representative', 'Farwah', 'Iqbal', 'farwah.iqbal@mail.utoronto.ca'),
 (3, 'GSU Representative', 'Susmita', 'Sarkar', 's.sarkar@mail.utoronto.ca'),
 (3, 'CUPE Representative', 'Shahin', 'Khodaei', 'shahin.khodaei@mail.utoronto.ca'),

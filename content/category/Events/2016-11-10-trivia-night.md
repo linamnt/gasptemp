@@ -1,7 +1,7 @@
 Title: Trivia Night
 Date: 2016-11-15
 
-![alt]({filename}/posters/trivia2016.png)
+![alt]({filename}/posters/2016/trivia2016.png)
 
 
 Hello Physiology Grad Students!

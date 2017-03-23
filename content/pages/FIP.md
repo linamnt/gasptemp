@@ -1,12 +1,14 @@
-Title: FIP 
+Title: FIP
 
-Every year the Department of Physiology hosts Frontiers in Physiology (FIP), a symposium which brings together and encourages interactions between graduate students and faculty members from all four platforms and institutions, allowing us to share our work and findings.
+Dear Physiology Students,
 
-This year, we will be hosting the 37th Annual FIP Symposium on May 9th, 2017, following the Macallum Lecture on May 8th, 2017 by our world-renowned Macallum and FIP speaker, Professor Catherine Dulac, Higgins Professor of Molecular and Cellular Biology, Howard Hughes Medical Institute, Harvard University. Dr. Dulac’s research interests in epigenetics, olfactory and pheromone signalling in sexual behaviour will appeal to all members of the Department.
+Abstract submissions for the **37th Annual Frontiers in Physiology Research Symposium (FIP)** is now closed! Frontiers in Physiology is an annual research day for the Department of Physiology; providing students and faculty from across our four independent platforms and institutions with the opportunity to share their research. This year, FIP will be held on **Tuesday May 9th, 2017**.  
 
-We look forward to organizing a successful and eventful FIP symposium. Keep these dates free, and we hope to see you all there!
+Should you have any questions regarding abstract submission, please email khanna.kim@mail.utoronto.ca. Thank you.
 
-Stay tuned for more information!
+Sincerely,
+GASP Co-Vice-Presidents
+
 
 ![alt]({filename}/posters/FIPcollage.jpg)
 

@@ -5,5 +5,5 @@ Date: 2016-10-05
 Attention all coffee drinkers and timbit lovers.....
 
 
-![alt]({filename}/posters/coffeebreak2016.jpg)
+![alt]({filename}/posters/2016/coffeebreak2016.jpg)
 

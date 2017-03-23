@@ -11,7 +11,7 @@ Here is a list of resources that you may find helpful as a graduate student.
 
 <a name='career'></a>
 
-##Career-Related 
+##Career-Related
 [Mitacs Opportunities](http://www.mitacs.ca/en)
 Mitacs is a national research organization that offers unique research and training programs for graduate students and post-doctoral fellows in Canada. Check out what they have to offer.
 
@@ -27,8 +27,8 @@ The Life Science Career Development Society (LSCDS) bridges the gap between acad
 [SGS](https://www.sgs.utoronto.ca/gradlife/Pages/default.aspx)
 The official School of Graduate Studies (SGS) website. This has resources for all U of T graduate students including: registration, student services, polices, and program completion.
 
-[Conflic Resolution Centre](https://www.sgs.utoronto.ca/gradlife/Pages/default.aspx)
-The Conflict Resolution Centre (CRC) for Graduate Students is a service offered to prevent and address conflicts you are facing. They do not intervene or advocate- they listen and help you navigate your way forward. If you are facing conflicts in your academic or personal life, book an appointment with them since no matter is too small ti discuss.
+[Conflict Resolution Centre](http://gradcrc.utoronto.ca/)
+The Conflict Resolution Centre (CRC) for Graduate Students is a service offered to prevent and address conflicts you are facing. They do not intervene or advocate- they listen and help you navigate your way forward. If you are facing conflicts in your academic or personal life, book an appointment with them since no matter is too small to discuss.
 
 [UofT Student Life Career Centre](http://www.studentlife.utoronto.ca/cc/cln)
 The Career Centre offers career advising appointments, tools and resources, as well as workshops and events. Check out what they have to offer for life after graduate school
@@ -41,7 +41,7 @@ The Career Centre offers career advising appointments, tools and resources, as w
 Being a graduate student means that you have healthcare coverage by GSU. This is the link to find out what the plan covers and how to claim your benefits.
 
 [CUPE3902](http://cupe3902.org/unit-1/)
-If you are a TA, this website has all the information you need to know about CUPE, unit 1 (the TA union). If you TA more than 45 hours you also qualify for benefits offered by CUPE. Information about the benefits is also on this page.
+If you are a TA, this website has all the information you need to know about CUPE, unit 1 (the TA union). If you TA more than 50 hours you also qualify for benefits offered by CUPE. Information about the benefits is also on this page.
 
 <a name='health'></a>
 
@@ -60,6 +60,3 @@ Here is the direct link to the workshops offered by the Health and Wellness Cent
 ##General Links
 [The official Cardiovascular Sciences Collaborative Program Website](http://www.cscp.utoronto.ca/)  
 [The Official Collaborative Program in Neuroscience (CPIN) website.](http://www.neuroscience.utoronto.ca/)
-
-
-
