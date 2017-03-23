@@ -1,6 +1,6 @@
-##Instructions for Maintaining GASP Website:
+## Instructions for Maintaining GASP Website:
 
-#Preparation:
+# Preparation:
 
 - Install Anaconda Python 3.x.x https://www.continuum.io/downloads  
 - Install Git (and Bash if using windows): https://git-scm.com/downloads  
@@ -15,7 +15,7 @@ git clone https://github.com/linamnt/gasptemp.git
 ```
 
 
-##To Update Council Members page:
+## To Update Council Members page:
 
 - Crop images to be all of equal size (e.g. 300x400px)  
 - Save each as First_Name.jpg such that First_Name matches the pelicanconf.py listing  
@@ -25,7 +25,7 @@ git clone https://github.com/linamnt/gasptemp.git
 - Each row can list at most three members, so the position of an individual in the chart is indicated by row_number, and order listed; hence, **there can be no more than three individuals with the same row_number.** Edit EXECMEMBERS and COUNCILMEMBERS accordingly.
 - .jpg filenames MUST MATCH the First_Name listed in EXECMEMBERS
 
-##Add New Posting:
+## Add New Posting:
 
 - Postings are organized into categories listed under uoftgasp/content/category/
 - Choose the category you would like to post in (i.e. Events, Gallery or General) and make a new .md file in that directory named like 2016-10-25-post-name.md or copy another pre-existing file and edit contents
@@ -45,7 +45,7 @@ Content using markdown.
 - bold using `**bolded word**` or italicize with `__emphasis__`
 - link with `[displayed words](link)`
 
-##To Change Sidebar for Upcoming Events:
+## To Change Sidebar for Upcoming Events:
 
 - Open pelicanconf.py
 - Under UPCOMING_EVENTS, remove any events that have passed, and add new ones in the format: ('Event Name', 'Date/Time', 'Location', 'post-title') where 'post-title' will be the lowercase version of event title joined by dashes (-). Each event bracket must be separated by a commma. Events with no posting can have a 'post-title' as ''.
